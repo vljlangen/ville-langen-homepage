@@ -67,6 +67,11 @@ skills:
         percent: 90
         icon: chart-line
         icon_pack: fas
+      - name: SAS
+        description: ''
+        percent: 60
+        icon: sas_logo_crop
+        icon_pack: custom       
       - name: Python
         description: ''
         percent: 50
