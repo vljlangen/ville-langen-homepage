@@ -59,41 +59,51 @@ skills:
     items:
       - name: R
         description: ''
-        percent: 90
+        percent:
         icon: r-project
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 90
+        percent:
         icon: chart-line
         icon_pack: fas
       - name: SAS
         description: ''
-        percent: 60
-        icon: sas_logo_crop
+        percent:
+        icon: sas_logo_crop_mono
         icon_pack: custom       
       - name: Python
         description: ''
-        percent: 50
+        percent:
         icon: python
         icon_pack: fab
+      - name: Graphic Design
+        description: ''
+        percent:
+        icon: pen-nib
+        icon_pack: fas
+      - name: Video Editing
+        description: ''
+        percent:
+        icon: video_editing
+        icon_pack: custom
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Music
         description: ''
-        percent: 70
+        percent:
         icon: music
         icon_pack: fas
-      - name: Web designing
-        description: ''
-        percent: 90
-        icon: pen-nib
-        icon_pack: fas
+      #- name: Web designing
+      #  description: ''
+      #  percent:
+      #  icon: pen-nib
+      #  icon_pack: fas
       - name: Photography
         description: '' 
-        percent: 60
+        percent:
         icon: camera-retro
         icon_pack: fas
 
