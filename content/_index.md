@@ -186,7 +186,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="own_photos" >}}
     design:
       columns: '1'
   - block: collection
