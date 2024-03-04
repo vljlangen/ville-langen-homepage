@@ -79,7 +79,7 @@ sections:
         - title: Clinician-Researcher
           company: University of Turku
           company_url: ''
-          company_logo: org-x
+          company_logo: turun_yliopisto
           location: Turku, Finland
           date_start: '2013-11-29'
           date_end: ''
@@ -104,23 +104,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - #certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '1995-09-01'
           description: ''
-          icon: coursera
-          organization: Coursera
+          icon: aidinkielen_opettajain_liitto
+          organization: Äidinkielen opettajain liitto
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Finalist in the Pikku-Finlandia essay competition
           url: ''
-        - certificate_url: https://www.edx.org
+
+        - #certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
+          date_start: '2000-01-01'
+          #description: Awarded 1st prize in a photography competition organized by the University of Turku in 2000
+          icon: turun_yliopisto
+          organization: Turun yliopisto
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: 1st prize in a photography competition organized by the University of Turku
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
