@@ -123,14 +123,14 @@ sections:
           organization_url: https://www.edx.org
           title: 1st prize in a photography competition organized by the University of Turku
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - #certificate_url: https://www.datacamp.com
+          date_end: ''
+          date_start: '2015-04-17'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: svpy_ry
+          organization: Svpy ry
+          organization_url: https://www.svpy.fi/
+          title: 2nd prize in the young researchers' competition of the Finnish Hypertension Society
           url: ''
     design:
       columns: '2'
