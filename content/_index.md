@@ -76,7 +76,7 @@ sections:
               * Patient rounds
               * Mentoring and teaching young doctors and medical students
         #clinician-researcher/clinical scientist/scientist-practitioner
-        - title: Clinician-Researcher
+        - title: Researcher
           company: University of Turku
           company_url: https://www.utu.fi/en
           company_logo: turun_yliopisto
