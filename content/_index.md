@@ -64,8 +64,8 @@ sections:
       items:
         - title: Clinician (MD)
           company: Several hospitals/health centers
-          company_url: ''
-          company_logo: medicine-symbol
+          #company_url: ''
+          company_logo: caduceus2
           location: Finland and Sweden
           date_start: '2002-06-12'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         #clinician-researcher/clinical scientist/scientist-practitioner
         - title: Clinician-Researcher
           company: University of Turku
-          company_url: ''
+          company_url: https://www.utu.fi/en
           company_logo: turun_yliopisto
           location: Turku, Finland
           date_start: '2013-11-29'
@@ -89,12 +89,22 @@ sections:
               * PhD completed in 2018
               * Post-graduate research with no passive years in publishing
               * Mentorship of three PhD students
+        - title: Research physician
+          company: Clinical Research Services Turku (CRST)
+          company_url: https://www.crst.fi/
+          company_logo: crst
+          location: Turku, Finland
+          date_start: '2006-05-02'
+          date_end: '2006-05-31'
+          description: |2-
+              Worked in a multidisciplinary team to implement clinical trials for pharmaceutical and food products, ensuring compliance with Good Clinical Practice (GCP) guidelines throughout the research process
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      #title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -110,19 +120,19 @@ sections:
           description: ''
           icon: aidinkielen_opettajain_liitto
           organization: Äidinkielen opettajain liitto
-          organization_url: https://www.coursera.org
+          organization_url: https://www.aidinkielenopettajainliitto.fi/
           title: Finalist in the Pikku-Finlandia essay competition
           url: ''
 
         - #certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2000-01-01'
+          date_start: '2000-03-20'
           #description: Awarded 1st prize in a photography competition organized by the University of Turku in 2000
           icon: turun_yliopisto
           organization: Turun yliopisto
-          organization_url: https://www.edx.org
+          organization_url: https://www.utu.fi/en
           title: 1st prize in a photography competition organized by the University of Turku
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - #certificate_url: https://www.datacamp.com
           date_end: ''
           date_start: '2015-04-17'
@@ -131,6 +141,15 @@ sections:
           organization: Svpy ry
           organization_url: https://www.svpy.fi/
           title: 2nd prize in the young researchers' competition of the Finnish Hypertension Society
+          url: ''
+        - #certificate_url: https://www.datacamp.com
+          date_end: ''
+          date_start: '1994-01-14'
+          description: ''
+          icon: mb_crop
+          organization: MikroBitti
+          organization_url: https://www.mikrobitti.fi/
+          title: Winner of a drawing competition hosted by MikroBitti magazine and Gremlin Graphics Software Limited
           url: ''
     design:
       columns: '2'
@@ -239,42 +258,42 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact me
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      #email: test@example.org
+      #phone: 888 888 88 88
+      #appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: University of Turku
+        #city: Turku, Finland
+        #region: CA
+        postcode: '20014, Turku, Finland'
+        #country: Finland
+        #country_code: US
+      directions: The location of the University of Turku, where I conduct my research, is shown on the web map below
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        latitude: '60.4545'
+        longitude: '22.2845'  
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: DM Me
+      #     link: 'https://twitter.com/Twitter'
+      #   - icon: skype
+      #     icon_pack: fab
+      #     name: Skype Me
+      #     link: 'skype:echo123?call'
+      #   - icon: video
+      #     icon_pack: fas
+      #     name: Zoom Me
+      #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -284,7 +303,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---

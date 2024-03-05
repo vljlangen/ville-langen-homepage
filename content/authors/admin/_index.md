@@ -62,11 +62,11 @@ skills:
         percent:
         icon: r-project
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent:
-        icon: chart-line
-        icon_pack: fas
+      #- name: Data Science
+      #  description: ''
+      #  percent:
+      #  icon: chart-line
+      #  icon_pack: fas
       - name: SAS
         description: ''
         percent:
