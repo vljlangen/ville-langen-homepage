@@ -25,7 +25,7 @@ organizations:
     url: https://www.tyks.fi/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include hypertension, cardiology, and geriatric topics.
+bio: My research interests include hypertension, cardiology, and geriatric topics. I enjoy hobbies such as music and photography.
 
 # Interests to show in About widget
 interests:
