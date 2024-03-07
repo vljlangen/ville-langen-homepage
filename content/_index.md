@@ -209,7 +209,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: iPhoneography
       subtitle: ''
       text: |-
         {{< gallery album="own_photos" >}}
@@ -263,7 +263,6 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: vilala@utu.fi
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:

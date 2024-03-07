@@ -25,6 +25,8 @@ url_video: ''
 slides: musescore
 ---
 
+(Click to [this external link](https://vldesign.kapsi.fi/musescore-ohjeita/) for a Finnish version of this tutorial.)
+
 ### Getting Started
 
 **First and foremost:** If you've never used MuseScore before, it's advisable to watch a quick tutorial video that demonstrates how to:
@@ -34,6 +36,9 @@ slides: musescore
 - Modify notes
 
 For that, I recommend [this video](https://www.youtube.com/watch?v=Pw9X1y_pLko) in the Musician Startup YouTube channel.
+
+
+
 
 
 ### Hearing Notes with MIDI
