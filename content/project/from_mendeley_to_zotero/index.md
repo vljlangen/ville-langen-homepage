@@ -36,13 +36,13 @@ https://www.youtube.com/watch?v=ERU2-unnCOQ
 
 ### Adding the Zotero plug-in for Word (unless you already have the plug-in installed, which you may verify as follows)
 
-1. Click Zotero —> Preferences 
+1. Click Zotero → Preferences 
 
 
 ![](zotero1.png)
 
 
-2. Click Cite —> Word Processors —> and if needed, click to the icon that installs the MS Word Add-in (in my case depicted in the image below, it has already been installed and there is no need to do it again)
+2. Click Cite → Word Processors → and if needed, click to the icon that installs the MS Word Add-in (in my case depicted in the image below, it has already been installed and there is no need to do it again)
 
 ![](zotero2.png)
 
@@ -57,7 +57,7 @@ After having installed Zotero and signed up in Zotero, you can migrate your refe
 Be sure to sync your Mendeley library first. If you are on the older software “Mendeley Desktop”, click the “Sync” button in it. If you are using the newer “Mendeley Reference Manager”, your references have already been synced and you don’t have to care about this step.
 
 
-2. Back to Zotero, click File —> Import
+2. Back to Zotero, click File → Import
 
 ![](zotero3.png)
 
