@@ -1,8 +1,8 @@
 ---
-title: 'Unlocking IPCW Analysis in R: A Step-by-Step Tutorial'
-summary: Embark on inverse probability of censoring weights (IPCW) analyses using R with this step-by-step comprehensive tutorial.
+title: 'Unlocking IPCW Analysis in R: A Step-by-Step Tutorial (in Finnish)'
+summary: Embark on inverse probability of censoring weights (IPCW) analyses using R with my step-by-step comprehensive tutorial.
 tags:
-  - Demo
+  - Science
 date: "2024-03-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

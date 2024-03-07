@@ -1,31 +1,24 @@
 ---
-Title: "MuseScore Usage Guide: A Personal Collection of Miscellaneous Tips"
-
-Summary: "Dive into my guide on using MuseScore with a collection of miscellaneous tips and tricks I've compiled for personal use. Whether it's about writing notes, editing scores, or adding sounds, just using these few features can get you far."
-tags:
-  - Other
+title: MuseScore Usage Guide
+summary: "MuseScore Usage Guide: A Personal Collection of Miscellaneous Tips"
+authors: [Ville Langén]
+tags: []
+categories: []
 date: '2024-03-06T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  focal_point: Smart
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: musescore
+slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: black
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
+  highlight_style: dracula
 ---
 
-### Getting Started
+# MuseScore Usage Guide: A Personal Collection of Miscellaneous Tips
+
+
+---
+
+## Getting Started
 
 **First and foremost:** If you've never used MuseScore before, it's advisable to watch a quick tutorial video that demonstrates how to:
 
@@ -35,12 +28,15 @@ slides: musescore
 
 For that, I recommend [this video](https://www.youtube.com/watch?v=Pw9X1y_pLko) in the Musician Startup YouTube channel.
 
+---
 
-### Hearing Notes with MIDI
+## Hearing Notes with MIDI
 
 To listen to notes in MuseScore, you will hear played music through sounds called MIDI. However, it's essential to note that on at least MacOS, my experience suggests that MIDI might not function properly without an internet connection. So make sure that your internet connection is running at all times.
 
-### Adding Notes
+---
+
+## Adding Notes
 
 - Ensure you are in note input mode (shortcut: N)
 - Move forward with the right arrow key or the number 0
@@ -48,29 +44,35 @@ To listen to notes in MuseScore, you will hear played music through sounds calle
 - Press the desired note (e.g., "D")
 - If the note is too high in pitch, press Cmd+down arrow to lower the octave
 
-### Adding Chords:
+---
 
-- Select the note where you want to add the chord symbol
-- Press Ctrl+K (MacOS: Cmd+K)
-- Manually input the chord, starting with one of the following: C, D, E, F, G, A, B, followed by:
+## Adding Chords
+
+- Select the note where you want to add the chord symbol, then Ctrl+K (MacOS: Cmd+K)
+- Manually input C, D, E, F, G, A, or B, followed by:
     - Sharp: #
     - Flat: b
     - Double sharp: x or ##
     - Double flat: bb
     - Natural: Ctrl+Shift+H
-- If you want to add chords before or after the selected note, you cannot use the arrow keys; specific commands are available for this purpose
 - Press Esc when you're done
 
-### Reducing Measures If the Song Is Too Long:
+---
+
+## Reducing Measures If the Song Is Too Long
 
 - Select the measures
 - Press Cmd+Del
 
-### Adding an Instrument:
+---
+
+## Adding an Instrument
 
 - Press "I"
 
-### How to Fit the Entire Score on One Page:
+---
+
+## How to Fit the Entire Score on One Page
 
 - Go to Format → Page Settings
 - Choose Scaling: Staff space (sp)
@@ -79,11 +81,15 @@ For more essential information on this topic, check out:
 
 [https://www.youtube.com/watch?v=TprrHgmHg6E](https://www.youtube.com/watch?v=TprrHgmHg6E)
 
-### Issue with Exporting as MP3:
+---
+
+## Issue with Exporting as MP3
 
 When exporting a song, such as to MP3 format, some instruments may disappear. The reason for this is that certain instruments, such as the Piano channel, cannot contain a Sine Wave Expr. sound type; it must be a plain Sine Wave.
 
-### Creating a Hotkey for Rewinding:
+---
+
+## Creating a Hotkey for Rewinding
 
 To enable quick rewinding, it's highly recommended to set up a hotkey.
 
@@ -94,38 +100,47 @@ For further discussion on this topic, visit:
 
 [https://musescore.org/en/node/285182](https://musescore.org/en/node/285182)
 
-### Using Wikipedia Images for Reference:
+---
+
+## Using Wikipedia Images for Reference
 
 If you need to work with bass clef notes on the piano's left hand and haven't memorized which note corresponds to which sound, you can use the image found at the following link from Wikipedia as a reference:
 
 [Wikipedia Bass Clef Image](https://en.wikipedia.org/wiki/Clef#/media/File:Clef_Diagram.png)
 
-### Selecting/Extracting Notes for a Single Instrument:
+---
+
+## Selecting/Extracting Notes for a Single Instrument
 
 1. Go to File → Parts → Single Part
 2. Choose the instrument you want to select/extract
 
-### Deleting the Bass Clef Section for Piano:
+---
+
+## Deleting the Bass Clef Section for Piano
 
 1. Press "I" to open the instrument dialog
 2. Click on staff 2 in the piano section
 3. Click the "Remove" button in the middle of the box
 4. Click "OK"
 
-### Changing from Alto Saxophone to Tenor Saxophone:
+---
 
-If the piece is coded correctly, there's no need to actually "transpose" anything. Simply change the instrument as follows:
+## Changing from Alto Saxophone to Tenor Saxophone
 
-- Right-click on the staff
-- Select "Staff Properties"
+Simply change the instrument as follows:
+
+- Right-click on the staff → "Staff Properties"
 - Click on "Change Instrument"
 - Choose "Tenor Sax"
 
-If the notes are already transposed and thus "mixed up," you can easily transpose them back as follows:
+When necessary, you can easily transpose notes back as follows:
 
 - Select "Notes" → "Transpose"
 
-### Selecting All Chord Symbols:
+---
+
+## Selecting All Chord Symbols
 
 To select all chord symbols:
 
@@ -133,7 +148,9 @@ To select all chord symbols:
 - Right-click
 - Choose "Select Similar"
 
-### Adjusting Dynamics for Each Note:
+---
+
+## Adjusting Dynamics for Each Note
 
 If importing a MIDI file brings dynamics for each note, and this is bothersome, you can proceed as follows:
 
@@ -143,6 +160,8 @@ If importing a MIDI file brings dynamics for each note, and this is bothersome, 
 - In the Inspector view, under the Note section, find "Velocity Type" and "Velocity"
 - Reset both "Velocity Type" and "Velocity" to default
 
-### Keep Exploring!
+---
+
+## Keep Exploring!
 
 I hope these tools give you a little jumpstart as you continue to explore and create in MuseScore. Happy composing!
