@@ -302,7 +302,7 @@ sections:
 #          id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-#          captcha: true
+          captcha: true
     design:
       columns: '2'
 ---
