@@ -47,7 +47,7 @@ education:
       year: 2012
     - course: Specialist in Geriatrics
       institution: University of Turku
-      year: 2019
+      year: 2009
     - course: Medical Doctor
       institution: University of Turku
       year: 2002
