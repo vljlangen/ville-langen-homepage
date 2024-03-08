@@ -42,7 +42,7 @@ tags:
 - Self Report
 - Retrospective Studies
 - Mass Screening
-- '#MeToo'
+- MeToo
 - Surveys and Questionnaires
 - Domestic violence
 - Domestic Violence
