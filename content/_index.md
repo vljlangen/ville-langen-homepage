@@ -228,7 +228,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: Peer-Reviewed International Articles
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -240,6 +240,34 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    content:
+      title: Peer-Reviewed Finnish Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./peer-reviewed-finnish-publications/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - peer-reviewed-finnish-publications
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation      
+  - block: collection
+    content:
+      title: Other Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./other-publications/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - other-publications
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation 
 #  - block: collection
 #    id: talks
 #    content:
