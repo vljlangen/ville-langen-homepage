@@ -297,7 +297,7 @@ sections:
         street: University of Turku
         #city: Turku, Finland
         #region: CA
-        postcode: '20014, Turku, Finland'
+        postcode: '20014; Turku, Finland'
         #country: Finland
         #country_code: US
       directions: The location of the University of Turku, where I conduct my research, is shown on the web map below
