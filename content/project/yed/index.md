@@ -90,6 +90,43 @@ There is no need to manually stretch elements to fit text neatly and ensure all 
 ![](kuva5.gif)
 
 
+### Saving the Flowchart Created with yEd
+
+Remember to save your flowchart properly — not just export it as a .jpeg file or similar! You may need to modify the flowchart later and export it again, perhaps in a different format like a .png file.
+
+- From the top menu, select File -> Save As...
+- Give your yEd flowchart project file a name
+- Click Save
+
+![](kuva7.gif)
 
 
+### Exporting the Flowchart Created with yEd
+
+While yEd saves projects in the graphml format, which is great for editing, some scenarios may require exporting the flowchart to bitmap formats like .tiff or .png, especially for submission to scientific journals.
+
+Below are instructions for exporting your flowchart in .png format:
+
+- From the top menu, select File -> Export...
+- Choose the format from the dropdown menu, here we select "PNG Format (*.png)"
+- Give your exported file a suitable name
+- Click Save
+- Click on the Size field and select Custom Width
+- For Custom Width, input at least 1000 pixels to ensure a high-quality image for the journal
+- Make sure the Scaling Factor is set to exactly 1.0 to prevent any distortion in the image
+- Click OK
+
+![](kuva8.gif)
+
+
+### Verifying Image Quality
+
+After exporting your flowchart, it's crucial to ensure that the image maintains its high quality. Sometimes, what you see in the software might differ from the final exported result. Here's a quick step to verify the image quality:
+
+- Always double-click on the exported image file on your hard drive to open and inspect it
+- This ensures that the image appears as intended and in high resolution
+
+By taking this extra step, you can catch any potential issues with image clarity or resolution before sharing or submitting it.
+
+![](kuva9.gif)
 
