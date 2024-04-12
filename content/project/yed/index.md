@@ -61,6 +61,7 @@ There is no need to manually stretch elements to fit text neatly and ensure all 
 - If you want all elements to be the same size, select Adapt to Maximum Node
 - Do not select Ignore Width and Ignore Height
 - Press Ok
+- **Note:** If you want this process to apply only to selected items, make sure to choose "Act on Selection Only"
 
 
 ![](kuva6.gif)
