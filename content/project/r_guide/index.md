@@ -10,7 +10,7 @@ tags:
 date: "2024-03-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://vldesign.kapsi.fi/r-guide-in-english/
+external_link: https://r-guide-in-english.netlify.app/
 
 image:
   focal_point: Smart
