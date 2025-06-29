@@ -2,7 +2,7 @@
 title: EKG-löydökset vaikeuttavat muistisairauden lääkehoitoa
 authors:
 - Salla Ranta
-- Ville Langén
+- admin
 - Maria Nuotio
 - Laura Ekblad
 date: '2023-01-01'

@@ -1,7 +1,7 @@
 ---
 title: Nostaako krooninen tulehdus verenpainetta?
 authors:
-- Ville Langén
+- admin
 - Jari Laukkanen
 - Teemu Niiranen
 date: '2021-01-01'

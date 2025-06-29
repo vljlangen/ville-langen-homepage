@@ -1,7 +1,7 @@
 ---
 title: HDL-hypoteesi valtimotautien tutkimuksessa ja hoidossa – pettymysten jälkeen edessä renessanssi?
 authors:
-- Ville Langén
+- admin
 - Teemu Niiranen
 date: '2016-01-01'
 publishDate: '2024-03-14T08:57:37.343156Z'

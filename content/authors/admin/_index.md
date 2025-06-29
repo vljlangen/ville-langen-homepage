@@ -9,48 +9,107 @@ name_pronunciation: /ˈvil-leh-'lang-en/
 first_name: Ville
 last_name: Langén
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Role/position/tagline
 role: Physician, educator, researcher
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Turku University Hospital
     url: https://www.tyks.fi/en
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include hypertension, cardiology, and geriatric topics. I enjoy hobbies such as music and photography.
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: '/#contact'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/home?lang=fi
+    label: Follow me on Twitter
+  - icon: brands/github
+    url: https://github.com/vljlangen
+  - icon: brands/linkedin
+    url: https://linkedin.com/in/ville-langen
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=fi&authuser=1&user=g1E4Dv4AAAAJ
+  - icon: brands/youtube
+    url: https://www.youtube.com/@vlangen
+  - icon: academicons/cv
+    url: uploads/resume.pdf
+    label: Download full CV
 
-# Interests to show in About widget
 interests:
   - Medical education
   - Data science
   - Linguistics
 
-# Education to show in About widget
 education:
-  courses:
-    - course: Specialist in Cardiology
-      institution: University of Turku
-      year: 2019
-    - course: PhD in Internal Medicine
-      institution: University of Turku
-      year: 2018
-    - course: Specialist in Internal Medicine
-      institution: University of Turku
-      year: 2012
-    - course: Specialist in Geriatrics
-      institution: University of Turku
-      year: 2009
-    - course: Medical Doctor
-      institution: University of Turku
-      year: 2002
+  - area: Adjunct Professor (Docent's Degree)
+    institution: University of Turku
+    date_start: 2024-09-20
+    date_end: ''
+  - area: Specialist in Cardiology
+    institution: University of Turku
+    date_start: 2017-01-01
+    date_end: 2019-12-31
+  - area: PhD in Internal Medicine
+    institution: University of Turku
+    date_start: 2014-01-01
+    date_end: 2018-12-31
+  - area: Specialist in Internal Medicine
+    institution: University of Turku
+    date_start: 2010-01-01
+    date_end: 2012-12-31
+  - area: Specialist in Geriatrics
+    institution: University of Turku
+    date_start: 2007-01-01
+    date_end: 2009-12-31
+  - area: Medical Doctor
+    institution: University of Turku
+    date_start: 1996-01-01
+    date_end: 2002-12-31
+work:
+  - position: Clinician (MD)
+    company_name: Several hospitals/health centers
+    company_url: ''
+    company_logo: caduceus2
+    date_start: 2002-06-12
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Outpatient clinic
+      - Patient rounds
+      - Mentoring and teaching young doctors and medical students
+  - position: Researcher
+    company_name: University of Turku
+    company_url: 'https://www.utu.fi/en'
+    company_logo: turun_yliopisto
+    date_start: 2013-11-29
+    date_end: ''
+    summary: |
+      Significant contributions:
+      - PhD completed in 2018
+      - Post-graduate research with no passive years in publishing
+      - Mentorship of three PhD students
+  - position: Research physician
+    company_name: Clinical Research Services Turku (CRST)
+    company_url: 'https://www.crst.fi/'
+    company_logo: crst
+    date_start: 2006-05-02
+    date_end: 2006-05-31
+    summary: |
+      Worked in a multidisciplinary team to implement clinical trials for pharmaceutical and food products, ensuring compliance with Good Clinical Practice (GCP) guidelines throughout the research process
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -107,45 +166,54 @@ skills:
         icon: camera-retro
         icon_pack: fas
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/home?lang=fi
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?hl=fi&authuser=1&user=g1E4Dv4AAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/vljlangen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://linkedin.com/in/ville-langen
-  - icon: youtube
-    icon_pack: fab
-    link: https://www.youtube.com/@vlangen
 
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+
+languages:
+  - name: English
+    percent: 100
+  - name: Finnish
+    percent: 100
+  - name: Swedish
+    percent: 85
+
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Finalist in the Pikku-Finlandia essay competition
+    date: '1995-09-01'
+    awarder: Äidinkielen opettajain liitto
+    icon: custom/aidinkielen_opettajain_liitto
+    icon_pack: custom
+    summary: |
+      Recognized for excellence in Finnish language essay writing in a national competition.
+  - title: 1st prize in photography competition
+    date: '2000-03-20'
+    awarder: University of Turku
+    icon: custom/turun_yliopisto
+    icon_pack: custom
+    summary: |
+      Awarded first place in a photography competition organized by the University of Turku.
+  - title: 2nd prize in young researchers' competition
+    date: '2015-04-17'
+    awarder: Finnish Hypertension Society
+    icon: custom/svpy_ry
+    icon_pack: custom
+    summary: |
+      Recognized for outstanding research contribution in hypertension studies as a young researcher.
+  - title: Winner of drawing competition
+    date: '1994-01-14'
+    awarder: MikroBitti magazine and Gremlin Graphics
+    icon: custom/mb_crop
+    icon_pack: custom
+    summary: |
+      Won a drawing competition hosted by MikroBitti magazine and Gremlin Graphics Software Limited.
 ---
 
-Ville Langén is a medical professional, board-certified as a specialist physician in cardiology, internal medicine, and geriatrics, holding an MD and a PhD. In addition to his clinical practice, Ville is deeply involved in education, imparting his expertise to the next generation of medical professionals.
+## About Me
 
-With a passion for data analysis and a keen interest in the intersection of medicine and data science, Ville dedicates his time to analyzing healthcare data and producing open-source educational materials. His work aims to bridge the gap between medicine and technology, making complex medical concepts more accessible to learners worldwide.
-{style="text-align: justify;"}
+I am a medical professional, board-certified as a specialist physician in cardiology, internal medicine, and geriatrics, holding an MD and a PhD. Alongside my clinical practice, I am actively engaged in teaching and mentoring medical students and residents.
+
+With a passion for data analysis and a keen interest in the intersection of medicine and data science, I pursue healthcare data exploration and the development of open-source educational materials alongside my clinical and teaching work. My aim is to bridge the gap between medicine and technology, making complex medical concepts more accessible to learners worldwide.
