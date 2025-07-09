@@ -29,7 +29,7 @@ sections:
         #featured_only: 
     design:
       view: article-grid
-      columns: 2
+      columns: 5
       #view: showcase
 
 
