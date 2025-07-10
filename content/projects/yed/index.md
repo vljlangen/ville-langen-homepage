@@ -1,6 +1,6 @@
 ---
 title: Easy Flowchart Creation with Free yEd Software
-summary: Learn how to create flowcharts quickly and effortlessly using the free yEd software. My tutorial provides quick instructions on utilizing various features of the program, including creating and editing elements, panning and zooming, connecting elements with arrows, adjusting element widths automatically, modifying element properties, and creating beautiful labels for arrows.
+summary: Create professional flowcharts with free yEd software. Quick tutorial for scientific publications.
 
 tags:
   - Science

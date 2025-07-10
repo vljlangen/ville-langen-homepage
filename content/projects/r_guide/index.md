@@ -1,9 +1,6 @@
 ---
 title: Beginner's Guide to R Programming
-summary: "My R guide for beginner's walks you through the essentials of using R for statistical analysis, including installing the R programming language and RStudio on your computer, and performing easy statistical analyses using R and R Markdown code. No prior experience in statistical analysis is required.
-<br>
-<br>
-*Note*: This guide is also available in Finnish."
+summary: "Beginner R guide: installation, RStudio, and statistical analysis. No prior experience required."
 
 tags:
   - Science

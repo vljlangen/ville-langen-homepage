@@ -1,6 +1,6 @@
 ---
 title: 'Divergent Git Branches - From Problem to Solution'
-summary: A comprehensive guide for researchers, data scientists, and programmers on solving Git divergent branches problems in scientific projects. Learn three different methods for managing divergent branches with practical, easy-to-follow solutions designed for single main branch workflows.
+summary: Solve Git divergent branches problems. Three practical methods with easy-to-follow solutions.
 tags:
   - Science
 date: "2024-12-01T00:00:00Z"
