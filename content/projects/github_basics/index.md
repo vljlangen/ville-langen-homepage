@@ -1,5 +1,5 @@
 ---
-title: 'GitHub Basics for Academic Researchers – or Anyone, Really'
+title: 'GitHub Without Tears: From Zero to Push in Minutes'
 summary: 'Learn GitHub essentials in 30 minutes. No programming experience required.'
 tags:
   - Science
