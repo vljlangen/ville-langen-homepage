@@ -1,6 +1,6 @@
 ---
-title: 'Introduction to Echocardiography (in Finnish)'
-summary: A beginner-friendly echocardiography tutorial in Finnish using the Philips CX50 machine. 
+title: 'Introduction to Echocardiography'
+summary: Learn echocardiography the easy way — a beginner-friendly tutorial in both Finnish and English, demonstrated using the Philips CX50 cardiac ultrasound machine.
 tags:
   - Science
 date: "2024-12-17T00:00:00Z"
