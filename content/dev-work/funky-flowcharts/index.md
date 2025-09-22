@@ -1,5 +1,5 @@
 ---
-title: "Funky Flowcharts: World's Fastest, Funkiest, Free-est Flowchart-o-matic"
+title: "Funky Flowcharts: World's Fastest, Funkiest, Free-est Flowchart-o-matic Web App"
 summary: "Create beautiful inclusion-exclusion flowcharts in seconds! Use blank lines to separate nodes, '->' for side-track nodes, and optional spacing controls."
 tags:
   - WebApp
