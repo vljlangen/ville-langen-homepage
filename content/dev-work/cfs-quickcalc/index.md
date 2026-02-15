@@ -1,6 +1,6 @@
 ---
 title: "CFS QuickCalc"
-summary: "Browser-based CFS (Chronic Fatigue Syndrome) scoring calculator."
+summary: "Browser-based CFS (Clinical Frailty Scale) scoring calculator (Finnish only)."
 tags:
   - WebApp
   - Calculator
