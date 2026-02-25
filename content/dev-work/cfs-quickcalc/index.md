@@ -1,11 +1,11 @@
 ---
 title: "CFS QuickCalc"
-summary: "Browser-based CFS (Clinical Frailty Scale) scoring calculator (Finnish only)."
+summary: "Browser-based CFS (Clinical Frailty Scale) scoring calculator."
 tags:
   - WebApp
   - Calculator
   - CFS
-date: '2025-01-01T00:00:00Z'
+date: '2026-02-25T00:00:00Z'
 
 # Link to the calculator (same site: put your index.html in static/cfs-quickcalc/)
 external_link: '/cfs-quickcalc/'
