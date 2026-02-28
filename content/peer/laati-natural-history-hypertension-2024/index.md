@@ -1,0 +1,19 @@
+---
+title: 'The natural history of hypertension in older adults: a study of two Finnish generational cohorts born 20 years apart'
+authors:
+- A. Lääti
+- K. Teppo
+- J. Vire
+- M. Viitanen
+- admin
+date: '2024-06-24'
+publishDate: '2024-06-24T00:00:00.000000Z'
+publication_types:
+- article-journal
+publication: '*Blood Press*'
+doi: 10.1080/08037051.2024.2368798
+abstract: 'BACKGROUND: We conducted a comparative analysis of hypertension prevalence, progression, and treatment in two Finnish population-based cohorts of older adults born 20 years apart, covering pre- and post-HYVET eras and the onset of the COVID-19 pandemic. METHODS: All 70-year-old home-dwelling citizens of Turku, Finland, were invited in 1990 (1920-born TUVA cohort) and 2010 (1940-born UTUVA cohort) with a 25-year follow-up plan. Analyses included 1015 TUVA and 888 UTUVA participants with available systolic and diastolic blood pressure (BP) data. RESULTS: At baseline, 83.4% of TUVA and 74.3% of UTUVA had uncontrolled BP; antihypertensive use was 36.0% vs 55.9% (p < .001). Systolic BP showed an inverted U-shaped trajectory, with TUVA initially 7.8 mmHg higher than UTUVA (p < .001); by ages 80–82 the difference attenuated to 4.0 mmHg (p = .03). UTUVA used more of all five conventional antihypertensive categories than TUVA (p ≤ .02). CONCLUSIONS: The 1940-born cohort showed better hypertension management in early older adulthood but still had 74.3% uncontrolled BP at baseline; by ages 81–82 the advantage over the 1920-born cohort had lessened. Heightened efforts to improve hypertension treatment in older adults remain crucial in the post-HYVET era.'
+links:
+- name: URL
+  url: https://doi.org/10.1080/08037051.2024.2368798
+---
