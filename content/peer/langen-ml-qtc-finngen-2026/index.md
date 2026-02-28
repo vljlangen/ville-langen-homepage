@@ -1,0 +1,19 @@
+---
+title: 'Machine Learning-Based Prediction of Drug-Induced QTc Changes in a Large Finnish Biobank Cohort'
+authors:
+- admin
+- A. Winstén
+- K. Teppo
+- T. Pohjonen
+- J. Laukkanen
+- FinnGen
+- A. Mannermaa
+- T. J. Niiranen
+- J. Palmu
+date: '2026-01-01'
+publishDate: '2026-01-01T00:00:00.000000Z'
+publication_types:
+- article-journal
+publication: '*Clin Transl Sci* (submitted)'
+abstract: 'Background: Prolongation of the QT interval is a known precursor to serious arrhythmias and sudden cardiac death, often triggered by medication use. Currently available medication risk evaluation platforms rely on literature-based synthesis and may lag behind real-world developments. Objective: To evaluate whether a machine learning (ML) model trained on real-world genomic and medication data can identify associations between drug use and QTc duration, potentially enabling automated risk detection in clinical workflows. Methods: We included 10,208 individuals from the FinnGen biobank Expansion Area 3 substudy, integrating prescription records, clinical variables, and genetic information. We applied a nested cross-validation approach to develop an ML framework to predict QTc duration using clinical characteristics, recent medication purchases, and polygenic score for QTc duration. We performed conventional linear regression analyses to estimate the robustness of the findings. Results: Only a minority of ML-detected drug–QTc associations aligned with known effects listed in the expert-curated reference. Several apparent false positives were observed, and effect sizes for true positives, such as amiodarone, were clinically negligible (+1 ms in ML vs. +49 ms in linear regression). These findings highlight challenges in using ML to detect meaningful drug effects on ECG traits. Conclusions: ML models did not reliably identify medications associated with QT-interval prolongation. While promising for predicting harder endpoints like arrhythmias, ML appears limited in risk quantification when applied to the QT interval as an intermediate marker. Systematic evidence review by clinical pharmacology experts is unlikely to be supplanted in the foreseeable future.'
+---
