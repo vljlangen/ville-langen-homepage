@@ -24,7 +24,7 @@ url_video: ''
 slides: ""
 ---
 
-**PubMed Abstract Listing Fetcher** is a small **open-source** Electron desktop application by Ville Langén, which helps you turn a plain-text bibliography into a **single continuous HTML page** of PubMed abstracts—useful when you are drafting, reviewing, or annotating a manuscript and want the abstract text beside each matched reference.
+**PubMed Abstract Listing Fetcher** is a small **open-source** Electron desktop application by Ville Langén, which helps you turn a plain-text bibliography into a **single continuous HTML page** of PubMed abstracts—useful when you are drafting, reviewing, or annotating a manuscript and want the abstract text beside each matched reference. **Downloads** (Windows and macOS installers) are on [GitHub Releases (latest)](https://github.com/vljlangen/pubmed-abstract-listing-fetcher/releases/latest).
 
 ### The Problem
 
