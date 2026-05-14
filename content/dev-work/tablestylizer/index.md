@@ -10,7 +10,9 @@ date: '2024-12-01T00:00:00Z'
 external_link: ''
 
 image:
+  placement: 2
   focal_point: Smart
+  caption: 'Image credit: [**Ev**](https://unsplash.com/photos/rectangular-white-panel-3d-wallpaper-zQtmZjMdejU)'
 
 url_code: 'https://github.com/vljlangen/tablestylizer'
 url_pdf: ''

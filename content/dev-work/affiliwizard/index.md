@@ -9,7 +9,9 @@ date: '2024-12-01T00:00:00Z'
 external_link: ''
 
 image:
+  placement: 2
   focal_point: Smart
+  caption: 'Image credit: [**Art Attack**](https://unsplash.com/illustrations/a-laptop-computer-sitting-on-top-of-a-desk-next-to-a-cup-of-coffee-Qqn9VFkdV6E)'
 
 url_code: 'https://github.com/vljlangen/affiliwizard'
 url_pdf: ''

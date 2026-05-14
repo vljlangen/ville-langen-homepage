@@ -11,7 +11,9 @@ date: '2024-12-01T00:00:00Z'
 external_link: ''
 
 image:
+  placement: 2
   focal_point: Smart
+  caption: 'Image credit: [**Pixabay**](https://www.pexels.com/photo/close-up-photo-of-medicinal-drugs-159211/)'
 
 url_code: 'https://github.com/vljlangen/atctools'
 url_pdf: ''
