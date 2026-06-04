@@ -49,9 +49,9 @@ logs/
 .cache/
 *.tmp
 
-# Build artifacts
-dist/
-build/
+# Build artifacts (root only — do not ignore Hugo Blox module assets under _vendor/.../assets/dist/)
+/dist/
+/build/
 
 # Hugo Blox specific
 .hugoblox/
