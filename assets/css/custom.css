@@ -1,0 +1,97 @@
+/* Brooks-style ingress blockquote (large faded opening quote, italic serif) */
+.prose blockquote.brooks {
+  position: relative;
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+  line-height: 1.55;
+  font-style: italic;
+  font-weight: 400;
+  margin: 0 0 1.5rem 0;
+  padding: 0.2em 0 0 0.35em;
+  border: none;
+  border-inline-start-width: 0;
+  quotes: none;
+  color: inherit;
+  background: transparent;
+}
+
+.prose blockquote.brooks::before {
+  content: "\201C";
+  position: absolute;
+  top: 0.12em;
+  left: -0.08em;
+  color: rgb(226 232 240);
+  font-size: 5.5em;
+  line-height: 1;
+  font-style: normal;
+  font-weight: 400;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.prose blockquote.brooks p {
+  position: relative;
+  z-index: 1;
+  font-size: inherit;
+  margin-top: 0;
+  margin-bottom: 0.75em;
+}
+
+.prose blockquote.brooks p:last-child {
+  margin-bottom: 0;
+}
+
+/* Override Tailwind Typography default quote marks on blockquotes */
+.prose blockquote.brooks > :first-child::before,
+.prose blockquote.brooks > :last-child::after {
+  content: none !important;
+}
+
+.dark .prose blockquote.brooks::before {
+  color: rgb(51 65 85);
+}
+
+/* mb-style-2: highlighted inline lede (highlighter + bottom shadow) */
+.prose blockquote.mb-style-2 {
+  max-width: 88%;
+  margin: 0 auto 1.5rem 4%;
+  padding: 0;
+  border: none;
+  border-inline-start-width: 0;
+  quotes: none;
+  background: transparent;
+  text-align: left;
+}
+
+.prose blockquote.mb-style-2 p {
+  margin: 0 0 0.65em 0;
+  font-family: Baskerville, Georgia, "Times New Roman", Times, serif;
+  font-size: 1.75rem;
+  font-style: italic;
+  line-height: 1.65;
+  background: rgb(252 252 252);
+  display: inline;
+  color: inherit;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5);
+  box-shadow: 0 8px 0 rgb(245 245 245);
+}
+
+.prose blockquote.mb-style-2 p:last-child {
+  margin-bottom: 0;
+}
+
+.prose blockquote.mb-style-2 > :first-child::before,
+.prose blockquote.mb-style-2 > :last-child::after {
+  content: none !important;
+}
+
+.dark .prose blockquote.mb-style-2 p {
+  background: rgb(80 95 115);
+  text-shadow: none;
+  box-shadow: 0 8px 0 rgb(60 72 88);
+}
+
+/* Pre-review checklist page only: extra space above ingress inside <details> */
+.prose .checklist-ingress > blockquote.mb-style-2 {
+  margin-top: 3.5rem;
+}

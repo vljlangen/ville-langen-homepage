@@ -24,6 +24,11 @@ slides: ""
 
 **AffiliWizard v1.0.0** is a lightweight GUI tool created by Ville Langén, designed to solve a common problem in academic writing: formatting author-affiliation lists with proper numbering and structure.
 
+**You can use it:**
+
+- **In your browser (no install):** [affiliwizard.netlify.app](https://affiliwizard.netlify.app/)
+- **On your computer:** download the desktop app for macOS and Windows (see **Download Options** below)
+
 ### The Problem
 
 When writing academic papers with multiple authors from different institutions, creating a properly formatted author-affiliation list can be tedious and error-prone. You often need to:
@@ -77,12 +82,11 @@ John Doe, MD<sup>1,2</sup>, Jane Doe, MD<sup>3</sup>
 
 ### Download Options
 
-**Desktop Applications:**
+**Online version:** [affiliwizard.netlify.app](https://affiliwizard.netlify.app/) (also linked at the top of this page).
+
+**Desktop applications:**
 - **macOS Apple Silicon**: [AffiliWizard-macOS-arm64.dmg](https://github.com/vljlangen/affiliwizard/releases)
 - **Windows**: [AffiliWizard.exe](https://github.com/vljlangen/affiliwizard/releases)
-
-**Online Version:**
-For immediate use without downloads: [https://affiliwizard.netlify.app/](https://affiliwizard.netlify.app/)
 
 ### For Linux Users
 
