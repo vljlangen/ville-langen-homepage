@@ -1,0 +1,21 @@
+---
+title: 'Association Between Proton-Pump Inhibitors and Muscle Strength in Older Adults: A Population-Based Analysis'
+authors:
+- J. Ollila
+- K. Teppo
+- K. Salminen
+- A. Lääti
+- J. Vire
+- M. Viitanen
+- admin
+date: '2026-09-01'
+publishDate: '2026-09-01T00:00:00.000000Z'
+publication_types:
+- article-journal
+publication: '*J Dig Dis*'
+doi: 10.1111/1751-2980.70068
+abstract: 'Objective We aimed to assess the association of proton‐pump inhibitor (PPI) use with muscle strength in older adults. Methods All 1940‐born residents of Turku, Finland were surveyed during 2016 and 2017 as part of the New Turku Older Adults Study. Associations between PPI use, regardless of dosing pattern, and physical function were analyzed using Welch''s t ‐test, chi‐square test, and linear and logistic regression models. Models were initially run as crude, then adjusted for age, sex, and body mass index (Multivariable Model 1), and further adjusted for the Charlson Comorbidity Index (CCI) (Multivariable Model 2). Results Among 616 participants (63.1% females), PPI users had lower mean handgrip strength (27.6 kg vs. 30.1 kg, p = 0.019), slower median 4‐m walking performance (3.7 s vs. 3.5 s, p = 0.017), and lower success in the armchair push–pull test (86.9% vs. 95.4%, p = 0.002) compared with non‐users. Crude regression analyses showed poorer performance across all outcomes among PPI users (all p &lt; 0.05); however, this persisted only for the armchair push–pull test through Multivariable Model 2 (odds ratio 0.40, 95% confidence interval 0.19–0.85, p = 0.02). In the sensitivity analysis, replacing the CCI with non‐vitamin medication burden attenuated this association as well ( p &gt; 0.05). Conclusions PPI use in older adults is significantly associated with lower muscle strength and poorer physical performance in less adjusted models, with these associations attenuating and disappearing with stepwise adjustment. These findings underscore the need to consider residual confounding in studies linking PPI use to adverse outcomes.'
+links:
+- name: URL
+  url: https://doi.org/10.1111/1751-2980.70068
+---

@@ -23,6 +23,15 @@ sections:
       columns: 1
   - block: collection
     content:
+      title: In progress
+      text: ""
+      filters:
+        folders:
+          - in-progress
+    design:
+      view: citation
+  - block: collection
+    content:
       title: Publications in International Peer-Reviewed Journals
       text: ""
       filters:

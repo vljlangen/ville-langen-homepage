@@ -95,3 +95,17 @@
 .prose .checklist-ingress > blockquote.mb-style-2 {
   margin-top: 3.5rem;
 }
+
+/* Homepage bio: gray-300, nudged slightly lighter */
+.dark .resume-biography .prose.prose-slate {
+  --tw-prose-body: rgb(232 234 237);
+  --tw-prose-headings: rgb(232 234 237);
+  --tw-prose-bold: rgb(232 234 237);
+  --tw-prose-links: rgb(232 234 237);
+  color: rgb(232 234 237);
+}
+
+.dark .resume-biography .bio-text,
+.dark .resume-biography .bio-text p {
+  color: rgb(232 234 237);
+}

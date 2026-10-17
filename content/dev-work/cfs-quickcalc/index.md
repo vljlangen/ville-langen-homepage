@@ -1,6 +1,7 @@
 ---
 title: "Frailty calculator"
 summary: "Browser-based frailty and functional assessment tool (under development)."
+draft: true
 tags:
   - WebApp
   - Calculator
