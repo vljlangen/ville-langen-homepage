@@ -5,8 +5,8 @@ authors:
 - admin
 - K. E. J. Airaksinen
 - K. Teppo
-date: '2025-08-27'
-publishDate: '2025-08-27T00:00:00.000000Z'
+date: '2025-09-01'
+publishDate: '2025-09-01T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Circ Cardiovasc Qual Outcomes*'

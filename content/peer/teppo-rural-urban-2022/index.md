@@ -16,8 +16,8 @@ authors:
 - Juha Hartikainen
 - K. E.Juhani Airaksinen
 - Mika Lehto
-date: '2022-01-01'
-publishDate: '2024-03-01T20:04:20.175185Z'
+date: '2022-10-31'
+publishDate: '2022-10-31T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*PLoS ONE*'

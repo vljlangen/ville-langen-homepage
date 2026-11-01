@@ -8,8 +8,8 @@ authors:
 - M. Salmi
 - T. Niiranen
 - admin
-date: '2024-12-12'
-publishDate: '2024-12-12T00:00:00.000000Z'
+date: '2024-12-01'
+publishDate: '2024-12-01T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Integr Blood Press Control*'

@@ -7,8 +7,8 @@ authors:
 - J. Vire
 - M. Viitanen
 - admin
-date: '2025-04-22'
-publishDate: '2025-04-22T00:00:00.000000Z'
+date: '2025-06-01'
+publishDate: '2025-06-01T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Int J Cardiol Cardiovasc Risk Prev*'

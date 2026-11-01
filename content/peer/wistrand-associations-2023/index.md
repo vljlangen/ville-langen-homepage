@@ -6,8 +6,8 @@ authors:
 - Teemu Niiranen
 - Niina E Kaartinen
 - admin
-date: '2023-12-01'
-publishDate: '2024-03-01T20:04:20.178068Z'
+date: '2023-05-03'
+publishDate: '2023-05-03T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Blood pressure*'

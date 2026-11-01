@@ -14,8 +14,8 @@ authors:
 - Jenni Vire
 - Matti Viitanen
 - Konsta Teppo
-date: '2024-02-01'
-publishDate: '2024-03-01T20:04:20.222857Z'
+date: '2024-02-27'
+publishDate: '2024-02-27T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Clinical Gerontologist*'

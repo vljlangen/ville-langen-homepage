@@ -14,8 +14,8 @@ authors:
 - Pirjo Mustonen
 - Juha Hartikainen
 - Mika Lehto
-date: '2024-03-01'
-publishDate: '2024-03-13T06:35:12.097801Z'
+date: '2024-03-08'
+publishDate: '2024-03-08T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*European Journal of Preventive Cardiology*'

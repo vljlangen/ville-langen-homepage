@@ -120,8 +120,8 @@ affiliations:
 - "University of Turku, Turku, Finland"
 - "Department of Medicine and Surgery, LUM University, Casamassima, Italy"
 - "University of Luebeck, Institute of Cardiogenetics, Lübeck, Germany"
-date: '2026-01-01'
-publishDate: '2026-01-01T00:00:00.000000Z'
+date: '2026-10-19'
+publishDate: '2026-10-19T00:00:00.000000Z'
 url: /metabolomic-age-cvd/
 publication_types:
 - paper-conference

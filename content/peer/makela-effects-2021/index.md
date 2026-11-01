@@ -10,8 +10,8 @@ authors:
 - Mika Scheinin
 - Kirsti Tiihonen
 - Arthur C. Ouwehand
-date: '2021-01-01'
-publishDate: '2024-03-01T20:04:20.211141Z'
+date: '2021-05-30'
+publishDate: '2021-05-30T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*British Journal of Clinical Pharmacology*'

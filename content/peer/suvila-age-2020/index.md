@@ -5,8 +5,8 @@ authors:
 - admin
 - Susan Cheng
 - Teemu J. Niiranen
-date: '2020-01-01'
-publishDate: '2024-03-01T20:04:20.172436Z'
+date: '2020-08-27'
+publishDate: '2020-08-27T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Current Hypertension Reports*'

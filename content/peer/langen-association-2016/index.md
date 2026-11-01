@@ -7,8 +7,8 @@ authors:
 - Pauli Puukka
 - Jouko Sundvall
 - Antti M. Jula
-date: '2016-05-01'
-publishDate: '2024-03-01T20:04:20.193390Z'
+date: '2015-09-23'
+publishDate: '2015-09-23T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Clinical Endocrinology*'

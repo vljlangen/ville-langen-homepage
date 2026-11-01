@@ -6,8 +6,8 @@ authors:
 - Susan Cheng
 - admin
 - Teemu Niiranen
-date: '2020-02-01'
-publishDate: '2024-03-01T20:04:20.216859Z'
+date: '2020-03-13'
+publishDate: '2020-03-13T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Annals of medicine*'

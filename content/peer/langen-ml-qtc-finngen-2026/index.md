@@ -9,8 +9,8 @@ authors:
 - A. Mannermaa
 - T. J. Niiranen
 - J. Palmu
-date: '2026-05-01'
-publishDate: '2026-05-01T00:00:00.000000Z'
+date: '2026-05-04'
+publishDate: '2026-05-04T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Clin Transl Sci*'

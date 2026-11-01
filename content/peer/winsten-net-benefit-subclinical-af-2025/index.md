@@ -5,8 +5,8 @@ authors:
 - admin
 - K. E. J. Airaksinen
 - K. Teppo
-date: '2025-05-01'
-publishDate: '2025-05-01T00:00:00.000000Z'
+date: '2025-05-02'
+publishDate: '2025-05-02T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*JAMA Netw Open*'

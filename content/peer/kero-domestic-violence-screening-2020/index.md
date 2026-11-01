@@ -5,8 +5,8 @@ authors:
 - A. H. Puuronen
 - L. Nyqvist
 - admin
-date: '2020-10-16'
-publishDate: '2020-10-16T00:00:00.000000Z'
+date: '2020-12-01'
+publishDate: '2020-12-01T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Eur J Obstet Gynecol Reprod Biol*'

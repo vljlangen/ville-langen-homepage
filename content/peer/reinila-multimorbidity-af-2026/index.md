@@ -16,8 +16,8 @@ authors:
 - M. Lehto
 - G. Y. H. Lip
 - K. Teppo
-date: '2026-08-01'
-publishDate: '2026-08-01T00:00:00.000000Z'
+date: '2026-08-21'
+publishDate: '2026-08-21T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Eur J Clin Invest*'

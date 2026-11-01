@@ -16,8 +16,8 @@ authors:
 - G. S. Stergiou
 - A. M. Jula
 - J. A. Staessen
-date: '2017-02-13'
-publishDate: '2017-02-13T00:00:00.000000Z'
+date: '2017-04-01'
+publishDate: '2017-04-01T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Hypertension*'

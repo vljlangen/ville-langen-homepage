@@ -8,7 +8,7 @@ authors:
 - Jouko Sundvall
 - Antti M. Jula
 date: '2014-12-01'
-publishDate: '2024-03-01T20:04:20.190486Z'
+publishDate: '2014-12-01T00:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Clinical Chemistry and Laboratory Medicine*'
